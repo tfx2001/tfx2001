@@ -4,7 +4,7 @@
 
 [![Mail](https://img.shields.io/badge/Email-2479727366@qq.com-blue?style=flat&logo=mail.ru)](mailto:2479727366@qq.com)
 
-I am astudent at CUIT.
+I am a student at CUIT.
 
 - 🔭 I’m currently working on RoboMaster
 - 🌱 I’m currently learning embedded development
