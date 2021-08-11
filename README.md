@@ -6,5 +6,5 @@
 
 I am a student at CUIT.
 
-- 🔭 I’m currently working on RoboMaster
+- 🔭 I’m currently participate in the RoboMaster
 - 🌱 I’m currently learning embedded development
