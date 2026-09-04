@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">tfx2001&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 295, Total Commits  (last year) : 48, Total PRs: 140, Total Issues: 27, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 295, Total Commits  (last year) : 48, Total PRs: 140, Total Issues: 28, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 80.46268870423832;
+        stroke-dashoffset: 80.19177873857689;
       }
     }
   
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >27</text>
+      >28</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >10</text>
+      >11</text>
     </g>
   </g>
     </svg>
