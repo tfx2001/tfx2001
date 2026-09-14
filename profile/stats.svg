@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">tfx2001&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 300, Total Commits  (last year) : 52, Total PRs: 141, Total Issues: 28, Contributed to (last year): 11</desc>
+        <title id="titleId">Fengwei Tan&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 300, Total Commits  (last year) : 53, Total PRs: 142, Total Issues: 28, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 79.48970549818783;
+        stroke-dashoffset: 79.26680333981353;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >tfx2001&#39;s GitHub Stats</text>
+      >Fengwei Tan&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >52</text>
+      >53</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >141</text>
+      >142</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >11</text>
+      >12</text>
     </g>
   </g>
     </svg>
