@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fengwei Tan&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 302, Total Commits  (last year) : 62, Total PRs: 145, Total Issues: 28, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 303, Total Commits  (last year) : 62, Total PRs: 145, Total Issues: 28, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 77.92614973400035;
+        stroke-dashoffset: 77.89243876467263;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >302</text>
+      >303</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
